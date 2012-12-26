@@ -26,6 +26,7 @@ public class NativeLoader {
 	private static String osArch = null;
 	
 	
+	@SuppressWarnings("serial")
 	public static class NativeLibraryLoadError extends UnsatisfiedLinkError {
 		
 		public NativeLibraryLoadError(String message) {

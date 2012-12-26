@@ -27,10 +27,14 @@ struct _canvasenvironment
 #define GLIST_DEFCANVASWIDTH 450
 #define GLIST_DEFCANVASHEIGHT 300
 
+/* since the window decorations aren't included, open new windows a few
+pixels down so you can posibly move the window later.  Apple needs less
+because its menus are at top of screen; we're more generous for other
+desktops because the borders have both window title area and menus. */
 #ifdef __APPLE__
 #define GLIST_DEFCANVASYLOC 22
 #else
-#define GLIST_DEFCANVASYLOC 0
+#define GLIST_DEFCANVASYLOC 50
 #endif
 
 /* ---------------------- variables --------------------------- */
@@ -102,6 +106,13 @@ void glob_setfilename(void *dummy, t_symbol *filesym, t_symbol *dirsym)
 {
     canvas_newfilename = filesym;
     canvas_newdirectory = dirsym;
+}
+
+void glob_menunew(void *dummy, t_symbol *filesym, t_symbol *dirsym)
+{
+    glob_setfilename(dummy, filesym, dirsym);
+    canvas_new(0, 0, 0, 0);
+    canvas_pop((t_canvas *)s__X.s_thing, 1);
 }
 
 t_canvas *canvas_getcurrent(void)
@@ -1415,6 +1426,16 @@ int canvas_open(t_canvas *x, const char *name, const char *ext,
         dirresult, nameresult, size, bin));
 }
 
+static void canvas_f(t_canvas *x, t_symbol *s, int argc, t_atom *argv)
+{
+    static int warned;
+    if (!warned)
+    {
+        post("** ignoring width or font settings from future Pd version **");
+        warned = 1;
+    }
+}
+
 /* ------------------------------- setup routine ------------------------ */
 
     /* why are some of these "glist" and others "canvas"? */
@@ -1544,6 +1565,9 @@ void g_canvas_setup(void)
     class_addmethod(canvas_class, (t_method)canvas_declare,
         gensym("declare"), A_GIMME, 0);
 
+/*--------------- future message to set formatting  -------------- */
+    class_addmethod(canvas_class, (t_method)canvas_f,
+        gensym("f"), A_GIMME, 0);
 /* -------------- setups from other files for canvas_class ---------------- */
     g_graph_setup();
     g_editor_setup();
