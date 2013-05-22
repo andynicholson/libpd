@@ -405,6 +405,7 @@ int open_soundfile(const char *dirname, const char *filename, int headersize,
 {
     char buf[OBUFSIZE], *bufptr;
     int fd;
+    post("opening %s in %s", filename, dirname);
     fd = open_via_path(dirname, filename, "", buf, &bufptr, MAXPDSTRING, 1);
     if (fd < 0)
         return (-1);
@@ -421,6 +422,7 @@ int open_soundfile_via_canvas(t_canvas *canvas, const char *filename, int header
 {
     char buf[OBUFSIZE], *bufptr;
     int fd;
+     post("opening %s via canvas", filename);
     fd = canvas_open(canvas, filename, "", buf, &bufptr, MAXPDSTRING, 1);
     if (fd < 0)
         return (-1);
@@ -1165,6 +1167,7 @@ static void soundfiler_read(t_soundfiler *x, t_symbol *s,
     char sampbuf[SAMPBUFSIZE];
     int bufframes, nitems;
     FILE *fp;
+    post("soundfiler_read starting");
     while (argc > 0 && argv->a_type == A_SYMBOL &&
         *argv->a_w.w_symbol->s_name == '-')
     {
@@ -1475,6 +1478,8 @@ static void soundfiler_setup(void)
         A_GIMME, 0);
     class_addmethod(soundfiler_class, (t_method)soundfiler_write,
         gensym("write"), A_GIMME, 0);
+    
+    post("soundfiler setup!");
 }
 
 

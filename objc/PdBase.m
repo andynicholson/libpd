@@ -99,11 +99,14 @@ static void printHook(const char *s) {
 }
 
 static void evaluatePrintMessage(params *p, char **buffer) {
+  NSString *s = [[NSString alloc] initWithCString:*buffer encoding:NSASCIIStringEncoding];
   if ([delegate respondsToSelector:@selector(receivePrint:)]) {
-    NSString *s = [[NSString alloc] initWithCString:*buffer encoding:NSASCIIStringEncoding];
+    
     [delegate receivePrint:s];
-    [s release];
+    
   }
+  //NSLog(@"PDBASE PRINT %@" , s);
+  [s release];
   *buffer += p->argc;
 }
 

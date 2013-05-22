@@ -517,5 +517,7 @@ void d_osc_setup(void)
     osc_setup();
     sigvcf_setup();
     noise_setup();
+
+    post("OSC finished setup");
 }
 
