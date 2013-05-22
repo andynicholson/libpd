@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/pure-data/!svn/ver/16967/trunk/externals/miXed/shared
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/Makefile.sources
+END
+getridof.baddeps
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/shared/getridof.baddeps
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/Makefile.objects
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/shared/notes.txt
+END
+shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/shared.c
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/16967/trunk/externals/miXed/shared/shared.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/Makefile
+END
+Makefile.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/shared/Makefile.dirs
+END

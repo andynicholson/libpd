@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/2618/trunk/externals/miXed/test/toxy/stress
+END
+bulk.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/1359/trunk/externals/miXed/test/toxy/stress/bulk.pd
+END
+pophurd.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/1402/trunk/externals/miXed/test/toxy/stress/pophurd.pd
+END
+catchme.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/1359/trunk/externals/miXed/test/toxy/stress/catchme.pd
+END
+bulkyhurd.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/2618/trunk/externals/miXed/test/toxy/stress/bulkyhurd.pd
+END
+mstots.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/2618/trunk/externals/miXed/test/toxy/stress/mstots.pd
+END
+nbulkyhurds.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/2618/trunk/externals/miXed/test/toxy/stress/nbulkyhurds.pd
+END

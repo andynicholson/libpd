@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/pure-data/!svn/ver/16955/trunk/externals/miXed/riddle
+END
+rdremote.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/pure-data/!svn/ver/8501/trunk/externals/miXed/riddle/rdremote.c
+END
+riddle.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/16955/trunk/externals/miXed/riddle/riddle.c
+END
+riddle.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/pure-data/!svn/ver/8501/trunk/externals/miXed/riddle/riddle.h
+END
+riddleguts.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/8501/trunk/externals/miXed/riddle/riddleguts.h
+END

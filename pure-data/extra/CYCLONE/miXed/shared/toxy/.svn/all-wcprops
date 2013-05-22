@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/pure-data/!svn/ver/16956/trunk/externals/miXed/shared/toxy
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/1321/trunk/externals/miXed/shared/toxy/Makefile.sources
+END
+scriptlet.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/shared/toxy/scriptlet.h
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/shared/toxy/Makefile.objects
+END
+plusbob.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/3094/trunk/externals/miXed/shared/toxy/plusbob.c
+END
+scriptlet.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/16956/trunk/externals/miXed/shared/toxy/scriptlet.c
+END
+plusbob.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/3094/trunk/externals/miXed/shared/toxy/plusbob.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/shared/toxy/Makefile
+END

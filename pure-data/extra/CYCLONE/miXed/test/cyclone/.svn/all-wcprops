@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/cyclone
+END
+mtr-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/mtr-test.pd
+END
+prob-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/prob-test.pd
+END
+sigmeters-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigmeters-test.pd
+END
+frameaccum-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/frameaccum-test.pd
+END
+sigcapture-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigcapture-test.pd
+END
+append-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/append-test.pd
+END
+testmess-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/testmess-test.pd
+END
+onebang-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/onebang-test.pd
+END
+comment-ogonki.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/comment-ogonki.pd
+END
+anal-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/anal-test.pd
+END
+active-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/active-test.pd
+END
+buffir-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/947/trunk/externals/miXed/test/cyclone/buffir-test.pd
+END
+Bucket-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/Bucket-test.pd
+END
+a-mix2.pd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/a-mix2.pd
+END
+comb-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/comb-test.pd
+END
+Decode-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/Decode-test.pd
+END
+click-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/click-test.pd
+END
+zl-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/zl-test.pd
+END
+Histo-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/Histo-test.pd
+END
+reson-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/reson-test.pd
+END
+line-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/line-test.pd
+END
+funnel-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/funnel-test.pd
+END
+seq-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/662/trunk/externals/miXed/test/cyclone/seq-test.pd
+END
+MouseState-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/MouseState-test.pd
+END
+test.funbuff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test.funbuff
+END
+prepend-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/prepend-test.pd
+END
+xnote-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/xnote-test.pd
+END
+cycle-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/cycle-test.pd
+END
+spectrum-pm.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/spectrum-pm.pd
+END
+funbuff-etest.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/funbuff-etest.pd
+END
+vectral-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/vectral-test.pd
+END
+onepole-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/onepole-test.pd
+END
+bondo-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/bondo-test.pd
+END
+pink-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/pink-test.pd
+END
+switch-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/switch-test.pd
+END
+sigcycle-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigcycle-test.pd
+END
+speedlim-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/speedlim-test.pd
+END
+test.capture
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test.capture
+END
+pong-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/pong-test.pd
+END
+Uzi-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/Uzi-test.pd
+END
+test1.seq
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test1.seq
+END
+universal-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/universal-test.pd
+END
+Borax-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/Borax-test.pd
+END
+spike-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/spike-test.pd
+END
+decide-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/decide-test.pd
+END
+train-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/train-test.pd
+END
+next-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/next-test.pd
+END
+TogEdge-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/TogEdge-test.pd
+END
+match-reentrant.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/match-reentrant.pd
+END
+midi-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/midi-test.pd
+END
+curve-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/curve-test.pd
+END
+Table-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/1639/trunk/externals/miXed/test/cyclone/Table-test.pd
+END
+sigwrappers-speed.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigwrappers-speed.pd
+END
+count-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/count-test.pd
+END
+record-sync-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/record-sync-test.pd
+END
+funbuff-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/funbuff-test.pd
+END
+scope-test2.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/scope-test2.pd
+END
+split-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/split-test.pd
+END
+match-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/match-test.pd
+END
+kink-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/kink-test.pd
+END
+cyclone-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/test/cyclone/cyclone-test.pd
+END
+poke-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/poke-test.pd
+END
+spray-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/spray-test.pd
+END
+svf-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/svf-test.pd
+END
+speedlim-rescheduling.pd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/cyclone/speedlim-rescheduling.pd
+END
+xbend-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/xbend-test.pd
+END
+good.coll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/good.coll
+END
+capture-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/capture-test.pd
+END
+matrix-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/2590/trunk/externals/miXed/test/cyclone/matrix-test.pd
+END
+sigbits-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigbits-test.pd
+END
+sigops-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigops-test.pd
+END
+urn-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/urn-test.pd
+END
+trig-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/trig-test.pd
+END
+coll-print.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/coll-print.pd
+END
+sigwrappers-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigwrappers-test.pd
+END
+past-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/past-test.pd
+END
+tosymbol-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/tosymbol-test.pd
+END
+grab-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/grab-test.pd
+END
+record-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/record-test.pd
+END
+scope-gop.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/scope-gop.pd
+END
+spell-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/spell-test.pd
+END
+mean-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/mean-test.pd
+END
+drunk-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/drunk-test.pd
+END
+lores-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/lores-test.pd
+END
+rand-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/rand-test.pd
+END
+comment-dotest.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/comment-dotest.pd
+END
+pv-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/pv-test.pd
+END
+sigsmoothers-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigsmoothers-test.pd
+END
+clip-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/clip-test.pd
+END
+sigwrappers-speed20.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigwrappers-speed20.pd
+END
+maxmode-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/test/cyclone/maxmode-test.pd
+END
+scope-test1.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/scope-test1.pd
+END
+testmess-reentrant.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/testmess-reentrant.pd
+END
+thresh-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/thresh-test.pd
+END
+kanon.mid
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/kanon.mid
+END
+bad.coll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/bad.coll
+END
+offer-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/test/cyclone/offer-test.pd
+END
+comment-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/comment-test.pd
+END
+forward-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/forward-test.pd
+END
+index-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/index-test.pd
+END
+buddy-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/buddy-test.pd
+END
+zerox-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/zerox-test.pd
+END
+sigtrig-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/sigtrig-test.pd
+END
+test.mid
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test.mid
+END
+test.pool
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test.pool
+END
+scope-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/scope-test.pd
+END
+substitute-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/substitute-test.pd
+END
+midiparse-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/midiparse-test.pd
+END
+peakamp-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/peakamp-test.pd
+END
+counter-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/counter-test.pd
+END
+gate-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/gate-test.pd
+END
+linedrive-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/test/cyclone/linedrive-test.pd
+END
+peek-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/peek-test.pd
+END
+mstosamps-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/test/cyclone/mstosamps-test.pd
+END
+test.seq
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/test.seq
+END
+maxmin-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/maxmin-test.pd
+END
+fromsymbol-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/fromsymbol-test.pd
+END
+coll-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/coll-test.pd
+END
+mousefilter-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/test/cyclone/mousefilter-test.pd
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/shared/sickle
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/sickle/Makefile.sources
+END
+sic.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/shared/sickle/sic.c
+END
+arsic.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/2490/trunk/externals/miXed/shared/sickle/arsic.c
+END
+sic.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/sickle/sic.h
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/sickle/Makefile.objects
+END
+arsic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/sickle/arsic.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/sickle/Makefile
+END

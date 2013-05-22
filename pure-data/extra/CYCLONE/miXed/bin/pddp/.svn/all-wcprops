@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/pure-data/!svn/ver/8795/trunk/externals/miXed/bin/pddp
+END
+pddpserver.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/4868/trunk/externals/miXed/bin/pddp/pddpserver.tcl
+END
+pddpclient.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/8795/trunk/externals/miXed/bin/pddp/pddpclient.tcl
+END
+pkgIndex.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/3170/trunk/externals/miXed/bin/pddp/pkgIndex.tcl
+END
+pddpboot.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/3094/trunk/externals/miXed/bin/pddp/pddpboot.tcl
+END

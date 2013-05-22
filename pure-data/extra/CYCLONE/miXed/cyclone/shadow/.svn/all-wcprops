@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/pure-data/!svn/ver/16960/trunk/externals/miXed/cyclone/shadow
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/cyclone/shadow/Makefile.sources
+END
+nettles.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/shadow/nettles.c
+END
+dummies.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/16960/trunk/externals/miXed/cyclone/shadow/dummies.c
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/shadow/Makefile.objects
+END
+maxmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/shadow/maxmode.c
+END
+shadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/931/trunk/externals/miXed/cyclone/shadow/shadow.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/cyclone/shadow/Makefile
+END
+cyclone.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/shadow/cyclone.c
+END

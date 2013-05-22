@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/pure-data/!svn/ver/16966/trunk/externals/miXed/cyclone/sickle
+END
+cycle.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16966/trunk/externals/miXed/cyclone/sickle/cycle.c
+END
+bitnot.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/bitnot.c
+END
+pink.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/cyclone/sickle/pink.c
+END
+onepole.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/onepole.c
+END
+bitand.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/bitand.c
+END
+pong.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/2490/trunk/externals/miXed/cyclone/sickle/pong.c
+END
+framedelta.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/framedelta.c
+END
+pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/pow.c
+END
+abs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/cyclone/sickle/abs.c
+END
+bitxor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/bitxor.c
+END
+curve.gp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/cyclone/sickle/curve.gp
+END
+spike.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/spike.c
+END
+cosx.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/cosx.c
+END
+avg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/avg.c
+END
+train.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16966/trunk/externals/miXed/cyclone/sickle/train.c
+END
+peakamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/peakamp.c
+END
+peek.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/947/trunk/externals/miXed/cyclone/sickle/peek.c
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/sickle/Makefile.objects
+END
+mstosamps.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/cyclone/sickle/mstosamps.c
+END
+Clip.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/15361/trunk/externals/miXed/cyclone/sickle/Clip.c
+END
+minmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/minmax.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/Makefile
+END
+acosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/acosh.c
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/delay.c
+END
+allpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/allpass.c
+END
+deltaclip.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/deltaclip.c
+END
+sinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/sinh.c
+END
+capture.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/16950/trunk/externals/miXed/cyclone/sickle/capture.c
+END
+play.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/play.c
+END
+overdrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/overdrive.c
+END
+atan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/atan2.c
+END
+Scope.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16965/trunk/externals/miXed/cyclone/sickle/Scope.c
+END
+bitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/bitor.c
+END
+comb.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/comb.c
+END
+sinx.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/sinx.c
+END
+reson.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/reson.c
+END
+delta.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/delta.c
+END
+phasewrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/phasewrap.c
+END
+tanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/tanh.c
+END
+vectral.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/vectral.c
+END
+trapezoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/trapezoid.c
+END
+asinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/asinh.c
+END
+triangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/triangle.c
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/index.c
+END
+zerox.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/cyclone/sickle/zerox.c
+END
+average.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/average.c
+END
+sickle.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/sickle/sickle.c
+END
+tanx.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/tanx.c
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/15926/trunk/externals/miXed/cyclone/sickle/Makefile.sources
+END
+linedrive.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/linedrive.c
+END
+cartopol.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/cartopol.c
+END
+curve.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/cyclone/sickle/curve.c
+END
+change.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/change.c
+END
+Line.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/15361/trunk/externals/miXed/cyclone/sickle/Line.c
+END
+count.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/count.c
+END
+atanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/atanh.c
+END
+kink.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/kink.c
+END
+poke.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/947/trunk/externals/miXed/cyclone/sickle/poke.c
+END
+svf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/svf.c
+END
+Snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/15361/trunk/externals/miXed/cyclone/sickle/Snapshot.c
+END
+slide.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/cyclone/sickle/slide.c
+END
+wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/wave.c
+END
+frameaccum.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/frameaccum.c
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/2590/trunk/externals/miXed/cyclone/sickle/matrix.c
+END
+edge.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/edge.c
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/lookup.c
+END
+minimum.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/682/trunk/externals/miXed/cyclone/sickle/minimum.c
+END
+sah.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/sah.c
+END
+bitshift.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/2490/trunk/externals/miXed/cyclone/sickle/bitshift.c
+END
+maximum.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/682/trunk/externals/miXed/cyclone/sickle/maximum.c
+END
+buffir.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/cyclone/sickle/buffir.c
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/947/trunk/externals/miXed/cyclone/sickle/record.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/log.c
+END
+poltocar.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/poltocar.c
+END
+atan.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/atan.c
+END
+lores.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/lores.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16966/trunk/externals/miXed/cyclone/sickle/rand.c
+END
+acos.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/acos.c
+END
+click.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/cyclone/sickle/click.c
+END
+allsickles.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/cyclone/sickle/allsickles.c
+END
+sampstoms.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/846/trunk/externals/miXed/cyclone/sickle/sampstoms.c
+END
+rampsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/4011/trunk/externals/miXed/cyclone/sickle/rampsmooth.c
+END
+asin.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/asin.c
+END
+cosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/16957/trunk/externals/miXed/cyclone/sickle/cosh.c
+END

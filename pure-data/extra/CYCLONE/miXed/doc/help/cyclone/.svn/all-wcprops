@@ -1,0 +1,971 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone
+END
+funnel-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/funnel-help.pd
+END
+delta~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/delta~-help.pd
+END
+MouseState-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/MouseState-help.pd
+END
+tanh-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/tanh-help.pd
+END
+poke~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/poke~-help.pd
+END
+svf~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/svf~-help.pd
+END
+cycle-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cycle-help.pd
+END
+trapezoid~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/trapezoid~-help.pd
+END
+wave~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/wave~-help.pd
+END
+pong~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/pong~-help.pd
+END
+speedlim-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/speedlim-help.pd
+END
+triangle~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/triangle~-help.pd
+END
+bitxor~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/bitxor~-help.pd
+END
+spike~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/spike~-help.pd
+END
+xbendin2-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xbendin2-help.pd
+END
+xbendout2-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xbendout2-help.pd
+END
+Borax-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Borax-help.pd
+END
+decide-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/decide-help.pd
+END
+next-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/next-help.pd
+END
+TogEdge-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/TogEdge-help.pd
+END
+flush-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/flush-help.pd
+END
+change~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/change~-help.pd
+END
+sampstoms~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sampstoms~-help.pd
+END
+Clip~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Clip~-help.pd
+END
+Table-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Table-help.pd
+END
+all_about_cyclone.pd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/all_about_cyclone.pd
+END
+funbuff-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/funbuff-help.pd
+END
+match-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/match-help.pd
+END
+allpass~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/allpass~-help.pd
+END
+spray-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/spray-help.pd
+END
+past-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/past-help.pd
+END
+lookup~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/lookup~-help.pd
+END
+buffir~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/buffir~-help.pd
+END
+spell-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/spell-help.pd
+END
+mstosamps~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/mstosamps~-help.pd
+END
+midiflush-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/midiflush-help.pd
+END
+maxmode-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/maxmode-help.pd
+END
+midiformat-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/midiformat-help.pd
+END
+delay~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/delay~-help.pd
+END
+thresh-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/thresh-help.pd
+END
+slide~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/slide~-help.pd
+END
+pink~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/pink~-help.pd
+END
+onepole~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/onepole~-help.pd
+END
+bitand~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/bitand~-help.pd
+END
+matrix~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/16064/trunk/externals/miXed/doc/help/cyclone/matrix~-help.pd
+END
+edge~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/edge~-help.pd
+END
+pow~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/pow~-help.pd
+END
+buddy-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/buddy-help.pd
+END
+avg~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/avg~-help.pd
+END
+train~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/train~-help.pd
+END
+midiparse-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/midiparse-help.pd
+END
+cartopol~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cartopol~-help.pd
+END
+rand~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/rand~-help.pd
+END
+cartopol-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cartopol-help.pd
+END
+Line~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Line~-help.pd
+END
+fromsymbol-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/fromsymbol-help.pd
+END
+Snapshot~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Snapshot~-help.pd
+END
+mousefilter-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/mousefilter-help.pd
+END
+sinh~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sinh~-help.pd
+END
+frameaccum~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/frameaccum~-help.pd
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1583/trunk/externals/miXed/doc/help/cyclone/README
+END
+average~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/average~-help.pd
+END
+minimum~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/minimum~-help.pd
+END
+minimum-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/minimum-help.pd
+END
+anal-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/anal-help.pd
+END
+maximum-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/maximum-help.pd
+END
+Bucket-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/Bucket-help.pd
+END
+sinx~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sinx~-help.pd
+END
+poltocar~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/poltocar~-help.pd
+END
+peek~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/peek~-help.pd
+END
+poltocar-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/poltocar-help.pd
+END
+Decode-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Decode-help.pd
+END
+acos-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/acos-help.pd
+END
+sprintf-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sprintf-help.pd
+END
+xnoteout-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xnoteout-help.pd
+END
+Histo-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Histo-help.pd
+END
+seq-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/seq-help.pd
+END
+prepend-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/prepend-help.pd
+END
+bitnot~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/bitnot~-help.pd
+END
+cycle~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cycle~-help.pd
+END
+bangbang-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/16089/trunk/externals/miXed/doc/help/cyclone/bangbang-help.pd
+END
+bondo-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/bondo-help.pd
+END
+switch-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/switch-help.pd
+END
+asinh-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/asinh-help.pd
+END
+iter-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/iter-help.pd
+END
+Uzi-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/Uzi-help.pd
+END
+Trough-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Trough-help.pd
+END
+universal-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/universal-help.pd
+END
+record~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/record~-help.pd
+END
+comb~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/comb~-help.pd
+END
+sustain-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sustain-help.pd
+END
+Clip-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Clip-help.pd
+END
+asin~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/asin~-help.pd
+END
+split-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/split-help.pd
+END
+vectral~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/vectral~-help.pd
+END
+sinh-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sinh-help.pd
+END
+capture~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/capture~-help.pd
+END
+capture-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/capture-help.pd
+END
+urn-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/urn-help.pd
+END
+tosymbol-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/tosymbol-help.pd
+END
+maximum~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/maximum~-help.pd
+END
+grab-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/grab-help.pd
+END
+peakamp~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/peakamp~-help.pd
+END
+bitor~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/bitor~-help.pd
+END
+log~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/log~-help.pd
+END
+mean-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/mean-help.pd
+END
+Peak-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/Peak-help.pd
+END
+curve~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/curve~-help.pd
+END
+drunk-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/drunk-help.pd
+END
+acos~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/acos~-help.pd
+END
+click~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/click~-help.pd
+END
+pv-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/pv-help.pd
+END
+count~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/count~-help.pd
+END
+rampsmooth~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/rampsmooth~-help.pd
+END
+xbendout-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xbendout-help.pd
+END
+kink~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/kink~-help.pd
+END
+asin-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/asin-help.pd
+END
+cosh-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cosh-help.pd
+END
+offer-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/offer-help.pd
+END
+comment-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/comment-help.pd
+END
+abs~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/abs~-help.pd
+END
+forward-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/forward-help.pd
+END
+index~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/index~-help.pd
+END
+zerox~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/zerox~-help.pd
+END
+Append-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/Append-help.pd
+END
+bitshift~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/bitshift~-help.pd
+END
+substitute-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/substitute-help.pd
+END
+coll.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/1583/trunk/externals/miXed/doc/help/cyclone/coll.txt
+END
+counter-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/16040/trunk/externals/miXed/doc/help/cyclone/counter-help.pd
+END
+gate-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/gate-help.pd
+END
+linedrive-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/linedrive-help.pd
+END
+lores~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/lores~-help.pd
+END
+reson~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/reson~-help.pd
+END
+xbendin-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xbendin-help.pd
+END
+phasewrap~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/phasewrap~-help.pd
+END
+accum-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/accum-help.pd
+END
+tanh~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/tanh~-help.pd
+END
+minmax~-help.pd.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/minmax~-help.pd.pd
+END
+atanh~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/atanh~-help.pd
+END
+coll-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/coll-help.pd
+END
+cosh~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cosh~-help.pd
+END
+acosh~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/acosh~-help.pd
+END
+deltaclip~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/deltaclip~-help.pd
+END
+test.mid
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/8864/trunk/externals/miXed/doc/help/cyclone/test.mid
+END
+prob-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/prob-help.pd
+END
+mtr-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/mtr-help.pd
+END
+framedelta~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/framedelta~-help.pd
+END
+play~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/play~-help.pd
+END
+overdrive~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/pure-data/!svn/ver/14464/trunk/externals/miXed/doc/help/cyclone/overdrive~-help.pd
+END
+atan2~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/atan2~-help.pd
+END
+Scope~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/16081/trunk/externals/miXed/doc/help/cyclone/Scope~-help.pd
+END
+testmess-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/pure-data/!svn/ver/16707/trunk/externals/miXed/doc/help/cyclone/testmess-help.pd
+END
+tanx~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/tanx~-help.pd
+END
+sah~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/sah~-help.pd
+END
+onebang-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/onebang-help.pd
+END
+cosx~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/cosx~-help.pd
+END
+active-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/active-help.pd
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/1583/trunk/externals/miXed/doc/help/cyclone/TODO
+END
+atan~-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/atan~-help.pd
+END
+xnotein-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/xnotein-help.pd
+END
+zl-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/14428/trunk/externals/miXed/doc/help/cyclone/zl-help.pd
+END

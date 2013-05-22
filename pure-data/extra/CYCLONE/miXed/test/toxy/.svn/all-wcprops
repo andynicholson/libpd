@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/pure-data/!svn/ver/3170/trunk/externals/miXed/test/toxy
+END
+multiscale-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/pure-data/!svn/ver/1425/trunk/externals/miXed/test/toxy/multiscale-test.pd
+END
+tot.ql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot.ql
+END
+setup.wid
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/3170/trunk/externals/miXed/test/toxy/setup.wid
+END
+tot-cover.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-cover.pd
+END
+tot-color.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/2361/trunk/externals/miXed/test/toxy/tot-color.pd
+END
+testmess-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/2361/trunk/externals/miXed/test/toxy/testmess-test.pd
+END
+tclversion.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1396/trunk/externals/miXed/test/toxy/tclversion.pd
+END
+lbpict-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/2361/trunk/externals/miXed/test/toxy/lbpict-test.pd
+END
+tot-rstring.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-rstring.pd
+END
+txt-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/1321/trunk/externals/miXed/test/toxy/txt-test.pd
+END
+pop1.wid
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/pop1.wid
+END
+pop2.wid
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/pop2.wid
+END
+scale-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1526/trunk/externals/miXed/test/toxy/scale-test.pd
+END
+popcustom-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/toxy/popcustom-test.pd
+END
+tot-query.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/1502/trunk/externals/miXed/test/toxy/tot-query.pd
+END
+kb-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/2425/trunk/externals/miXed/test/toxy/kb-test.pd
+END
+popup-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1396/trunk/externals/miXed/test/toxy/popup-test.pd
+END
+multiscale.wid
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/test/toxy/multiscale.wid
+END
+defaults-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/defaults-test.pd
+END
+tow-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/toxy/tow-test.pd
+END
+testmess.wid
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/toxy/testmess.wid
+END
+button-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/toxy/button-test.pd
+END
+lbpict.wid
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/2618/trunk/externals/miXed/test/toxy/lbpict.wid
+END
+test.wid
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/pure-data/!svn/ver/1321/trunk/externals/miXed/test/toxy/test.wid
+END
+txt.wid
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/pure-data/!svn/ver/1321/trunk/externals/miXed/test/toxy/txt.wid
+END
+tot-qlist.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-qlist.pd
+END
+listbox-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/pure-data/!svn/ver/2940/trunk/externals/miXed/test/toxy/listbox-test.pd
+END
+test1.tot
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/test1.tot
+END
+tot-nomenu.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-nomenu.pd
+END
+tot-head.pd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-head.pd
+END
+tot-files.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-files.pd
+END
+tot-monkey.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/tot-monkey.pd
+END
+radio-test.pd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/pure-data/!svn/ver/1024/trunk/externals/miXed/test/toxy/radio-test.pd
+END
+kb.wid
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/pure-data/!svn/ver/2550/trunk/externals/miXed/test/toxy/kb.wid
+END

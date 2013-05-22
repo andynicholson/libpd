@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/pure-data/!svn/ver/16965/trunk/externals/miXed/shared/hammer
+END
+Makefile.sources
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/hammer/Makefile.sources
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/16965/trunk/externals/miXed/shared/hammer/file.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/shared/hammer/tree.c
+END
+Makefile.objects
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/hammer/Makefile.objects
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/16962/trunk/externals/miXed/shared/hammer/file.h
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/15018/trunk/externals/miXed/shared/hammer/gui.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/shared/hammer/tree.h
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/pure-data/!svn/ver/2360/trunk/externals/miXed/shared/hammer/gui.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/pure-data/!svn/ver/648/trunk/externals/miXed/shared/hammer/Makefile
+END
